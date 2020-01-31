@@ -1,14 +1,14 @@
 {
-  "name": "speech-api",
+  "name": "web-speech-ai",
   "version": "1.0.0",
   "description": "Simple AI Chat Bot Demo with Web Speech API",
   "main": "index.js",
   "scripts": {
-    "start": "npm start",
+    "start": "nf start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Dmitriy Kuragin",
-  "license": "Apache 2.0",
+  "author": "Tomomi Imura",
+  "license": "MIT",
   "dependencies": {
     "apiai": "^4.0.2",
     "dotenv": "^4.0.0",
